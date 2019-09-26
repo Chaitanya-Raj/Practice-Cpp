@@ -11,7 +11,7 @@ void show(int arr[], int n)
 
 int main()
 {
-    int arr[10] = {9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
+    int arr[10] = {1, 5, 8, 9, 6, 7, 3, 4, 2, 0};
     cout << "\nThe STL sort() function is a quicksort algorithm. The 'algorithm' header file is included to use this function.";
     cout << "\n\nUnsorted array :";
     show(arr, 10);
